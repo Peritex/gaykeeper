@@ -1,0 +1,12 @@
+*.log
+**/DerivedDataCache
+
+Config/
+
+Saved
+Saved/
+Saved/Config
+Saved/Logs
+Saved/ShaderDebugInfo
+Saved/SourceControl
+Saved/Telemetry
