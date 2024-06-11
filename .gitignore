@@ -10,3 +10,7 @@ Saved/Logs
 Saved/ShaderDebugInfo
 Saved/SourceControl
 Saved/Telemetry
+/Saved
+*.log
+/Saved/Config
+Intermediate/CachedAssetRegistry_0.bin
