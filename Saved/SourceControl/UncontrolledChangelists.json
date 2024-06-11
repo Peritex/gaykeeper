@@ -13,6 +13,9 @@
 				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Blueprints/BP_Projectile.uasset",
 				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Blueprints/BP_Pickup.uasset",
 				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Blueprints/BP_AttackSpeedPickup.uasset",
+				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Input/Actions/IA_SecondaryAttack.uasset",
+				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Blueprints/PM_Bounce.uasset",
+				"F:/UnrealEngine/UE_5.4/Projects/gaykeeper/Content/TopDown/Blueprints/BP_SecondaryProjectile.uasset",
 				"D:/Josh/Documents/Unreal Projects/gaykeeper/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
