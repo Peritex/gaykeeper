@@ -3,3 +3,5 @@
 *.log
 /Saved/Crashes
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+/Saved
+/Intermediate
